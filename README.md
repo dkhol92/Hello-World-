@@ -1,2 +1,2 @@
 # Hello-World-
-The first spet
+The first step
